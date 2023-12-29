@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpeshjamgade&label=Profile%20views&color=0e75b6&style=flat" alt="alpeshjamgade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpeshjamgade" alt="alpeshjamgade" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lazy_photon" target="blank"><img src="https://img.shields.io/twitter/follow/lazy_photon?logo=twitter&style=for-the-badge" alt="lazy_photon" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [alpeshjamgade.blogspot.com](alpeshjamgade.blogspot.com)

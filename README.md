@@ -1,5 +1,3 @@
-## Day of the Year: **<script>document.write(new Date().getDayOfYear());</script>**
-
 <h1 align="center">Hi, I'm Alpesh Jamgade</h1>
 <h3 align="center">A passionate software developer from India</h3>
 

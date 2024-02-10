@@ -1,4 +1,4 @@
-## Day of the Year: **[![Day of the Year](https://img.shields.io/badge/Day%20of%20Year-$(python script.py)-blue.svg)](https://github.com/alpeshjamgade/alpeshjamgade/blob/main/script.py)**
+## Day of the Year: **<script>document.write(new Date().getDayOfYear());</script>**
 
 <h1 align="center">Hi, I'm Alpesh Jamgade</h1>
 <h3 align="center">A passionate software developer from India</h3>
